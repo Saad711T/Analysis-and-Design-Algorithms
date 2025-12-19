@@ -7,7 +7,7 @@ Projects for "501435-3 | Analysis and Design of Algorithms Course" in Taif Unive
 ![img](Syllabus.png)
 
 1. [Asymptotic Analysis](chapters/chapter1.pdf)
-2. Recurrences
+2. [Recurrences](chapters/chapter2.pdf)
 3. Divide and Conquer
 4. Linear Sorting
 5. Binary Search Trees
